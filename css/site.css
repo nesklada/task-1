@@ -1,0 +1,9 @@
+.has-error input{
+    border-color: red;
+}
+
+.error-text {
+    font-weight: 500;
+    color: red;
+    font-size: 0.8em;
+}
